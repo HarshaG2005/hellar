@@ -1,0 +1,29 @@
+.background{
+    background-image: url("background.png");
+    background-size: 100%;
+}
+.boy{
+    height: 250px;
+    margin-top: 310px;
+    position:absolute;
+
+
+
+
+}
+.score{
+    font-weight: bold;
+    font-size: 50px;
+    color: brown;
+    margin-top: 25px;
+    margin-left: 25px;
+    position: absolute;
+}
+.flame{
+     height: 200px;
+     position: absolute;
+     margin-top: 390px;
+     margin-left: 500px;
+
+
+}
